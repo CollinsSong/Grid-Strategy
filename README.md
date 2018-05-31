@@ -1,11 +1,9 @@
 # Grid-Strategy
 XJTLU Final Year Project
 
-## main code for grid strategy:
+## Codes:
 
-The main codes of this FYP is Grid Strategy testing (main codes).
-
-# The other three codes are the products during the process of this project:
+The main codes of this algorithm is Grid Strategy testing (main codes).
 
 "Bitcoin exchange simulation" is a real time market data collecting/ trading simulation with a built in simple(testing) algorithm. The final algorithm is not tested by this program.This program now can not get real time data since Chinese government has forbidened the trading of Bitcoin. So the data it showing is the data from the last minute of the policy (no more updates from the company).  
 
@@ -13,7 +11,7 @@ The main codes of this FYP is Grid Strategy testing (main codes).
 
 "graph plotting" is the graph plotting program.
 
-## data:
+## Data:
 
 "2014-2016 BTC USD" is the data I used to test this algorithm.This is not collected by me, I download it from website. 
 
